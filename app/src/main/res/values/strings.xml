@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LearnDeno</string>
+    <string name="light_name">跑马灯</string>
+    <string name="dialog_name">提示框</string>
+    <string name="canvas_name">自定义view</string>
+    <string name="layout_name">自定义布局</string>
+    <string name="handle_Thread_name">线程、handle</string>
+    <string name="service_name">服务</string>
+    <string name="zbar_name">二维码（ZBar）</string>
+    <string name="zxing_name">二维码（ZXing）</string>
+</resources>

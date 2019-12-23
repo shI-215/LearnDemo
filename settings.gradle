@@ -1,0 +1,2 @@
+include ':app', ':zbarcode', ':lib-zxing'
+rootProject.name='LearnDeno'
